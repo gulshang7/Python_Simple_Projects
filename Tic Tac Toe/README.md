@@ -42,7 +42,7 @@ Write a function that asks the player if they want to play again and returns a b
 ### Step 10: 
 Use while loops and the functions you've made to run the game!
 
-### [Jupyter Notebook](https://github.com/gulshang7/Data-Visualization-with-Python/blob/main/Matplotlib/Matplotlib%20Library.ipynb)
+### [Jupyter Notebook](https://github.com/gulshang7/Python_Simple_Projects/blob/main/Tic%20Tac%20Toe/Tic%20Tac%20Toe%20.ipynb)
 ### [Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
 
 ## My Other Projects:
