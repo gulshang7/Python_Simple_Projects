@@ -14,10 +14,10 @@ Following some of the Projects I done while I was Leaning Python back in days.
 
 <img align="left" width="150" height="150" src="https://github.com/gulshang7/Python_Simple_Projects/assets/124501309/9b669f50-9e74-4853-8e5f-7598de66a742">
 
-   Create a Tic Tac Toe game. 
+ Create a Tic Tac Toe game.
+ 
+ Here are the requirements:
    
-   Here are the requirements:
-
-    * 2 players should be able to play the game (both sitting at the same computer).
-    * The board should be printed out every time a player makes a move.
-    * You should be able to accept input of the player position and then place a symbol on the board.
+    1) 2 players shoud be able to play the game (both sitting at the same computer).
+    2) The board should be printed out every time a player makes a move.
+    3) You should be able to accept input of the player position and then place a symbol on the board.
