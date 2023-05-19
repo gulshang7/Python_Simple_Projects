@@ -3,7 +3,7 @@
 Some Easy Python Projects.
 ##
 <p align="center">
-  <img width="660" height="250" src="https://github.com/gulshang7/Python_Simple_Projects/assets/124501309/67389c08-d75c-46d6-9615-5607cdcf5196">
+  <img width="660" height="200" src="https://github.com/gulshang7/Python_Simple_Projects/assets/124501309/67389c08-d75c-46d6-9615-5607cdcf5196">
 </p>
 
 Following some of the Projects I done while I was Leaning Python back in days.
