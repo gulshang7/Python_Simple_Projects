@@ -24,7 +24,7 @@ Following some of the Projects I done while I was Leaning Python back in days.
     
 ### [Jupyter Notebook](https://github.com/gulshang7/Python_Simple_Projects/blob/main/Tic%20Tac%20Toe/Tic%20Tac%20Toe%20.ipynb)
     
-### 1) BLACK JACK GAME:
+### 2) BLACK JACK GAME:
 
 <img align="left" width="150" height="150" src="https://github.com/gulshang7/Python_Simple_Projects/assets/124501309/1d9f8258-9402-4632-81e5-e5fbde50345f">
 
