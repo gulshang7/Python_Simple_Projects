@@ -7,3 +7,17 @@ Some Easy Python Projects.
 </p>
 
 Following some of the Projects I done while I was Leaning Python back in days.
+
+## PROJECTS:
+
+### 1) TIC TAC TOE GAME:
+
+<img align="left" width="150" height="150" src="https://github.com/gulshang7/Python_Simple_Projects/assets/124501309/9b669f50-9e74-4853-8e5f-7598de66a742">
+
+   Create a Tic Tac Toe game. 
+   
+   Here are the requirements:
+
+    * 2 players should be able to play the game (both sitting at the same computer).
+    * The board should be printed out every time a player makes a move.
+    * You should be able to accept input of the player position and then place a symbol on the board.
