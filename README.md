@@ -14,7 +14,7 @@ Following some of the Projects I done while I was Leaning Python back in days.
 
 <img align="left" width="150" height="150" src="https://github.com/gulshang7/Python_Simple_Projects/assets/124501309/9b669f50-9e74-4853-8e5f-7598de66a742">
 
- Create a Tic Tac Toe game.
+#### [Tic Tac Toe game](https://github.com/gulshang7/Python_Simple_Projects/tree/main/Tic%20Tac%20Toe)
  
  Here are the requirements:
    
