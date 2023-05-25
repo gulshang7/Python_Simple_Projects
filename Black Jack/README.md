@@ -45,7 +45,7 @@ Write functions to display cards. When the game starts, and after each time Play
 ### Step 10: 
 Write functions to handle end of game scenarios. Remember to pass player's hand, dealer's hand and chips as needed.
 
-### [Jupyter Notebook](https://github.com/gulshang7/Python_Simple_Projects/blob/main/Black%20Jack/Black%20Jack%20Game.ipynb)
+### [Jupyter Notebook](https://github.com/gulshang7/Python_Simple_Projects/blob/main/Black%20Jack/Black%20Jack.ipynb)
 ### [Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
 
 ## My Other Projects:
