@@ -37,6 +37,8 @@ Following some of the Projects I done while I was Leaning Python back in days.
     3) The player must be able to pick their betting amount. You need to track the player's total money.
     4) You need to alert the player of wins, losses, or busts, etc...
 
+### [Jupyter Notebook](https://github.com/gulshang7/Python_Simple_Projects/blob/main/Black%20Jack/Black%20Jack.ipynb)
+
 ## 
 
 ### [Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
